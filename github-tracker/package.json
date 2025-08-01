@@ -1,0 +1,16 @@
+{
+  "name": "github-tracker",
+  "version": "1.0.0",
+  "description": "A simple CLI tool for fetching user stats from github",
+  "license": "ISC",
+  "author": "Shashank Ranjan",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fetch": "node index.js"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
